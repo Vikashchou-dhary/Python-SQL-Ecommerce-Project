@@ -14,4 +14,4 @@ Visualization: Developed insightful charts and trends using Matplotlib and Seabo
 
 Technologies Used:
 
-Python (Pandas, Matplotlib, Seaborn), SQL (MySQL), Jupyter Notebook
+Python (Pandas, Matplotlib, Seaborn), SQL (MySQL), Jupyter Notebook.
